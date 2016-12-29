@@ -7,7 +7,6 @@ import java.util.Properties;
 
 /**
  * 读取properties的文件工具类
- * Created by DELL on 2016/12/27.
  */
 public class PropertiesUtil {
 

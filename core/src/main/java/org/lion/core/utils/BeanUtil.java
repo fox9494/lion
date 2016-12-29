@@ -5,7 +5,7 @@ import org.apache.commons.beanutils.BeanUtils;
 import java.lang.reflect.InvocationTargetException;
 
 /**
- * Created by DELL on 2016/12/27.
+ * Created by chenll on 2016/12/27.
  */
 public class BeanUtil {
 
